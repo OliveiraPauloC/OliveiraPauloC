@@ -2,7 +2,7 @@
 #### Desenvolvedor Fullstack 
 Um amante da tecnologia que busca a cada dia uma melhora nas habilidades técnicas e pessoais.
 
-Skills: GIT / REACT / NODE / JS / HTML / CSS
+Skills: GIT / REACT / NODE / JS / HTML / CSS 
 
 
 
