@@ -2,7 +2,7 @@
 #### Desenvolvedor Front-End
 Um amante da tecnologia que busca a cada dia uma melhora nas habilidades técnicas e pessoais.
 
-Skills: GIT / REACT / TYPESCRIPT / JS / HTML / CSS /SASS
+Skills: REACT / TYPESCRIPT / JAVASCRIPT / HTML / CSS / SASS
 
 
 
